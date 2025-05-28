@@ -13,8 +13,8 @@ To implement SARIMA model using python.
 ### PROGRAM:
 
 ```
-# Name : Rakshitha J
-# Reg No : 212223240135
+# Name : HASNA MUBARAK AZEEM
+# Reg No : 212223240052
 
 import pandas as pd
 import numpy as np
